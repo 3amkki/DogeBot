@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.ibb.co/LPbHTfL/nsfwdoge.jpg?format=jpg&name=900x900" alt="Xeon" width="170" />
+<img src="https://c.tenor.com/sTFc7j1xRJ0AAAAS/doge-dancing-doge.gif?format=jpg&name=900x900" alt="Xeon" width="170" />
 
-## Doge Bot V2
+## Doge Bot
 
 </div>
 
@@ -15,8 +15,12 @@
 <a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
-## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Botv2Test/)
+
+## 1st Repository was deleted
+Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️Thank you!!
+
+## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -36,18 +40,13 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot2/blob/master/session.json#L1)
-
-## `SETTING`
-
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L10)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L12)
+[`Click Here`](https://github.com/DGXeon/DogeBot/blob/master/session.json#L1)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
 🦄 git clone https://github.com/DGXeon/DogeBot.git
-🦄 cd DogeBot2
+🦄 cd DogeBot
 🦄 npm start
 ```
 ## For Termux
@@ -55,7 +54,6 @@ heroku/nodejs
 🦄 apt update
 🦄 apt upgrade
 🦄 pkg update && pkg upgrade 
-🦄 pkg install hot
 🦄 pkg install bash
 🦄 pkg install libwebp
 🦄 pkg install git -y
@@ -63,17 +61,15 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot2
-🦄 cd DogeBot2
+🦄 git clone https://github.com/DGXeon/DogeBot
+🦄 cd DogeBot
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
 🦄 npm start
 🦄 scan qr code within 15seconds
 ```
-## `Installation Video`
-- Review video [Click here](https://youtu.be/zXvwqA8LvTw)
-- Tutorial video [Click here](https://youtu.be/B7DN5miMS3k)
+
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
